@@ -1,2 +1,2 @@
 def parrot ("Squawk!")
-  puts ""
+  puts "#s"
